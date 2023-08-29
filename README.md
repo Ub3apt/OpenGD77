@@ -24,6 +24,6 @@ PDF version: https://github.com/LibreDMR/OpenGD77_UserGuide/raw/master/OpenGD77_
 
 ### Russia versions
 PDF version:
-
+https://github.com/Ub3apt/OpenGD77_UserGuide/tree/master
 ### Please note
 Only the English version is maintained. The Chinese version is now considerably out of date
